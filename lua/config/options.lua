@@ -7,4 +7,4 @@ vim.g.lazyvim_inlay_hints = false
 vim.opt.spell = true
 -- 対象言語を英語（en）と、必要に応じて日本語（cjk）に設定
 -- cjkを入れておくと日本語文字がスペルミスとして判定されにくくなります
-vim.opt.spelllang = { "en_us" }
+vim.opt.spelllang = { "en_us", "cjk" }

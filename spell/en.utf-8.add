@@ -12,3 +12,7 @@ vim
 augroup
 del
 lazyvim
+github
+VeryLazy
+https
+json
